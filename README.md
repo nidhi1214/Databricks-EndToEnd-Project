@@ -1,4 +1,6 @@
 #RetailVault
+
+
 End-to-End Azure Data Engineering: Medallion Architecture Pipeline
 This repository demonstrates a production-scale data engineering lifecycle built on the Azure Ecosystem. The project automates the journey of raw data through a multi-stage refinement process—Bronze, Silver, and Gold—to deliver actionable insights via Power BI.
 
